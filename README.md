@@ -15,6 +15,7 @@ Sistema preditivo de enchentes urbanas utilizando **Data Science**, **Inteligên
 O nosso projeto tem o foco na utilização de tecnologias espaciais e análise de dados para solucionar problemas reais enfrentados pela sociedade.
 </div>
 
+
 A proposta consiste em uma plataforma inteligente capaz de:
 
 * monitorar dados climáticos e geoespaciais;
